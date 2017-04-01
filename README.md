@@ -1,41 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/KevinT0323/KevinT0323.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinT0323/KevinT0323.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### My Project
-
+## Kevin Tsai
+* Birthday: 1991/03/23
+* Sex: Male
+* Address: Rm. 3, 5F., No.9, Taiyuan 1st St., North Dist., Taichung City 40466, Taiwan (R.O.C.)
+* Ancestral home town: Taiwan
+* E-mail: bgtrfvcde99@gmail.com
+* Military Service Status: Performed
+* Marital status: Single
+* Height: 175 cm
+* Weight: 57 kg
+## JOB OBJECTIVE
+**Front End Developer**
+## Educational Background
+* 06/2009 to 06/2013 | **Chaoyang University of Technology - Department of Information Management** 
+* 05/2006 to 05/2009 | **National Hsi-Hu Senior High School - Information Management Section**
+## Skills
+Linux、MySQL、PHP、HTML、Vmware、jQuery、JavaScript、RWD、Bootstrap
+## Working Experience
+02/2015 to Present | **Ally Choice Global Limited - Customer Support**
+## Autobiography
+I'm Kevin. I born in peace and happiness family.
+I likeanything about information or computer, so I study Information Management department when I'm a senior high student until I graduated from Chaoyang University Information Management department.
+I think interesting will make work smoothness, It would be my pleasure if I have the chance to work for your company.
+Thank you for reading my autobiography. 
+## My Project
 [JCstore](https://kevint0323.github.io/JCstore)
