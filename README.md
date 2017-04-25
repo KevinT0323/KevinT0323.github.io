@@ -25,5 +25,6 @@ Thank you for reading my autobiography.
 ## My Project
 [JCstore](https://kevint0323.github.io/JCstore)
 ## My practice
-[FishGame](https://kevint0323.github.io/fishgame)
-[galleryByReact](https://kevint0323.github.io/gallery-by-react/dist/)
+* [FishGame](https://kevint0323.github.io/fishgame)
+
+* [GalleryByReact](https://kevint0323.github.io/gallery-by-react/dist/)
