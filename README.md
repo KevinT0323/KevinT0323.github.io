@@ -24,7 +24,7 @@ I think interesting will make work smoothness, It would be my pleasure if I have
 Thank you for reading my autobiography. 
 ## My Project
 [JCstore](https://kevint0323.github.io/JCstore)
-## My practice
+## My Practice
 * [FishGame](https://kevint0323.github.io/fishgame)
 
 * [GalleryByReact](https://kevint0323.github.io/gallery-by-react/dist/)
